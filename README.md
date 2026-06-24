@@ -28,7 +28,7 @@ A command-line tool for transcribing audio files locally using [OpenAI Whisper](
 
 ```bash
 # 1. Clone or download the project
-git clone https://github.com/EgorKA027/transcribe_audio_whisper.git
+git clone https://github.com/vetoshkina200220-glitch/whisper_transcribe_audio.git
 
 # 2. Navigate to the project folder
 cd transcribe_audio_whisper/
