@@ -28,7 +28,7 @@
 
 ```bash
 # 1. Клонируйте или скачайте проект
-git clone https://github.com/EgorKA027/transcribe_audio_whisper.git
+git clone https://github.com/vetoshkina200220-glitch/whisper_transcribe_audio.git
 
 # 2. Перейти в папку с проектом
 cd transcribe_audio_whisper/
